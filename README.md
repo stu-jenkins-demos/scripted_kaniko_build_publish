@@ -1,0 +1,1 @@
+# scripted_kaniko_build_publish
